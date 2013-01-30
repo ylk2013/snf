@@ -1,0 +1,7 @@
+
+1、这个类需要导入QuartzCore框架
+
+2、这个类是基于ARC设计的。
+
+在target 的 compile souce 选项卡中 -fobjc-arc
+
